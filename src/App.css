@@ -175,6 +175,7 @@ body {
 
 #bg-light {
   --bs-bg-opacity: 1;
-  background-color: black;
+  background-color: #444444;
+  color: #fff;
 }
 
